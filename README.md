@@ -74,6 +74,6 @@ python analyzer.py
 
 ## [~] Find Me on :
 
-**ROSHAN-Z89**
 - GitHub: [ROSHAN-Z89](https://github.com/ROSHAN-Z89)
-- [![Gmail](https://img.shields.io/badge/Gmail-R05HAN-green?style=for-the-badge&logo=gmail)](mailto:rouson.ece@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-Rouson%20Das-green?style=for-the-badge&logo=gmail)](mailto:rouson.ece@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rouson%20Das-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rouson-das-563b52284/)
