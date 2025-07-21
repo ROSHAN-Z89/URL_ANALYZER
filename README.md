@@ -36,9 +36,9 @@
 
 ---
 
-## 📦 Installation
+📦 Installation
 
-###🔧 On Debian-based Systems (Ubuntu, Kali, etc.)
+🔧 On Debian-based Systems (Ubuntu, Kali, etc.)
 ```bash
 sudo apt update && sudo apt install git python3 python3-pip -y
 git clone https://github.com/ROSHAN-Z89/url-analyzer
@@ -46,7 +46,7 @@ cd url-analyzer
 pip3 install -r requirements.txt
 python3 analyzer.py
 ```
-###🧪 On Arch-based Systems (Arch, Manjaro, EndeavourOS)
+🧪 On Arch-based Systems (Arch, Manjaro, EndeavourOS)
 ```bash
 sudo pacman -S git python python-pip --noconfirm
 git clone https://github.com/ROSHAN-Z89/url-analyzer
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python analyzer.py
 
 ```
-###📱 On Termux (Android)
+📱 On Termux (Android)
 ```bash
 pkg install git python -y
 git clone https://github.com/ROSHAN-Z89/url-analyzer
@@ -63,7 +63,7 @@ cd url-analyzer
 pip install -r requirements.txt
 python analyzer.py
 ```
-###Options
+Options
 ```
   usage: python3 main.py
 ```
