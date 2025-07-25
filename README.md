@@ -67,7 +67,11 @@ Options
 ```
   usage: python3 main.py
 ```
-
+## 📌 What's New in v1.1?
+✅ Graceful Fallback for Missing IPInfo Token
+In previous versions, if users didn’t provide a valid ipinfo token, the script would crash or exit with an error.
+Now fixed — the tool skips IP info gathering but continues processing the rest of the URL analysis, allowing users without API keys to still benefit from the other features.  
+  
 ### [*] Support
 ####  Want to show support? Just spread the word and smash the star button
 
