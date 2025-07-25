@@ -21,7 +21,7 @@ GREEN = '\033[92m'
 RESET = '\033[0m'
 
 # Banner
-version = "1.0"
+version = "1.1"
 logo = f"""
 {CYAN}{figlet_format("URL ANALYZER", font="slant")}{YELLOW}
                    [ v{version}]
