@@ -13,6 +13,12 @@
 </p>
 
 ---
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="urlanalyser.jpg" alt="URL Analyzer Screenshot" width="500"/>
+</p>
+---
 
 ## 🧠 Description
 
